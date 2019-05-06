@@ -1,0 +1,18 @@
+{
+  "tpl": {
+    "python-flask": {
+      "name": "Python Flask 最佳技术实践",
+      "url": "",
+      "branch": "",
+      "startCmd": "",
+      "shellPath": "../utils/python-flask"
+    },
+    "react": {
+      "name": "React 最佳技术实践",
+      "url": "",
+      "branch": "",
+      "startCmd": "npm install && npm start",
+      "shellPath": "../utils/react"
+    }
+  }
+}

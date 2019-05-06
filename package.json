@@ -1,0 +1,29 @@
+{
+  "name": "light-cli",
+  "version": "0.0.1",
+  "description": "轻量级、多元化脚手架工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LazyJoke/light-cli.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "ZhangSong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LazyJoke/light-cli/issues"
+  },
+  "homepage": "https://github.com/LazyJoke/light-cli#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.20.0",
+    "inquirer": "^6.3.1"
+  }
+}
