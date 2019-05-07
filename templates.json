@@ -2,8 +2,8 @@
   "tpl": {
     "python-flask": {
       "name": "Python Flask 最佳技术实践",
-      "url": "",
-      "branch": "",
+      "url": "https://github.com/LazyJoke/flask-app.git",
+      "branch": "origin/master",
       "startCmd": "",
       "shellPath": "../utils/python-flask"
     },
